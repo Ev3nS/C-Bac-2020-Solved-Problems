@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1579560157 source:c:\users\sorin\desktop\dasdada\main.cpp
+	<iostream>
+	<string.h>
+	<vector>
+

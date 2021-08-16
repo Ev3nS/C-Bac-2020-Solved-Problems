@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1579727212 source:c:\users\sorin\desktop\bac 2020 info s3e3\main.cpp
+	<iostream>
+	<fstream>
+

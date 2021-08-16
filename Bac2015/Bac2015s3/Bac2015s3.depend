@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1571943059 source:a:\codeblocks\bac2015s3\main.cpp
+	<iostream>
+	<fstream>
+
